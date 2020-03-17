@@ -1,2 +1,3 @@
 # study-first
-test
+It's directory is trash
+
